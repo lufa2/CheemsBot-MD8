@@ -21,8 +21,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94753334890'] //ur owner number
-global.ownernomer = "94753334890" //ur owner number2
+global.owner = ['94715486555'] //ur owner number
+global.ownernomer = "94715486555" //ur owner number2
 global.ownername = "𝐗𝐗𝐗 么 𝐋𝐔𝐅𝐀" //ur owner name
 global.ytname = "YT: XXX 么 LUFA MODS" //ur yt chanel name
 global.socialm = "GitHub: xSandeep" //ur github or insta name
@@ -30,9 +30,9 @@ global.location = "Colombo, Sri Lanka" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
-global.ownernumber = '94753334890'
+global.ownernumber = '94715486555'
 global.ownername = '𝐗𝐗𝐗 么 𝐋𝐔𝐅𝐀'
-global.ownerNumber = ["94753334890@s.whatsapp.net"]
+global.ownerNumber = ["94715486555@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@XXXLUFAMODS"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
@@ -41,7 +41,7 @@ global.wm = "Lufa Bot Inc."
 global.botscript = 'https://github.com/lufa2/CheemsBot-MD8' //script link
 global.packname = "Sticker By"
 global.author = "𝐗𝐗𝐗 么 𝐋𝐔𝐅𝐀\n\n"
-global.creator = "94753334890@s.whatsapp.net"
+global.creator = "94715486555@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
