@@ -31,7 +31,7 @@ global.location = "Colombo, Sri Lanka" //ur location
 //new
 global.botname = "Cheems Bot MD V8"
 global.ownernumber = '94753334890'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownername = '𝐗𝐗𝐗 么 𝐋𝐔𝐅𝐀'
 global.ownerNumber = ["94753334890@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@XXXLUFAMODS"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
